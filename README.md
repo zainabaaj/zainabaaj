@@ -1,6 +1,19 @@
 
 ![Zeyna's GitHub Banner](https://github.com/zainabaaj/zainabaaj/blob/main/banner.jpg?raw=true)
 
+
+<div style="display: flex; align-items: center; justify-content: center; height: 300px;">
+<h1 align="center">Hi, They call me Zeyna </h1>
+
+<div align="center">
+  <p>🎓 Re:Coded Frontend Bootcamp Graduate | B.Eng. in Computer Engineering</p>
+  <p>🔭 Currently fine-tuning my skills in Next.js and Tailwind CSS</p>
+  <p>🛠️ Creator of Course Worm, a dynamic learning app built with Next.js, Tailwind CSS, Firebase, and Redux.
+    Check it out: <a href="https://github.com/202303-PRM-TR-FEW/Capstone-GZIHMH">Course Worm</a></p>
+  <p>💻 Proficient in HTML, CSS, JavaScript | Python enthusiast | Aspiring React Developer</p>
+  <p>🌍 Multilingual: Fluent in Turkish, Arabic, English | Intermediate in French, German</p>
+  <p>💬 Let's connect, collaborate, and make amazing things together!</p>
+</div>
 <img align="right" alt="Coding" width="400" src="https://github.com/zainabaaj/zainabaaj/blob/main/giphy.gif?raw=true">
 🔭 I’m currently working on<br>- I’m currently working on [Course Worm](https://github.com/202303-PRM-TR-FEW/Capstone-GZIHMH)<br><br>
 👯 I’m looking to collaborate on<br>- Exciting web development projects that challenge and inspire creativity.<br><br>
@@ -25,10 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainabaaj&show_icons=true&locale=en" alt="zainabaaj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainabaaj&" alt="zainabaaj" /></p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zainabaaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zainabaaj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zainabaaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zainabaaj&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
