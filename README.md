@@ -15,7 +15,7 @@
   <p>💬 Let's connect, collaborate, and make amazing things together!</p>
 </div>
 <img align="right" alt="Coding" width="400" src="https://github.com/zainabaaj/zainabaaj/blob/main/giphy.gif?raw=true">
-🔭 I’m currently working on<br>- I’m currently working on [Course Worm](https://github.com/202303-PRM-TR-FEW/Capstone-GZIHMH)<br><br>
+🔭 I’m currently working on<br>- I’m currently working on Course Worm<br><br>
 👯 I’m looking to collaborate on<br>- Exciting web development projects that challenge and inspire creativity.<br><br>
 🤝 I’m looking for help with<br>- Further optimizing the Course Worm application's Redux state management.<br>- Implementing advanced features like AI-driven course recommendations.<br><br>
 🌱 I’m currently learning<br>- Advanced techniques in Next.js to build even more responsive and interactive web applications.<br><br>
